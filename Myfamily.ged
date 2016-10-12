@@ -1,0 +1,178 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 16 SEP 2016
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Moulya Soma Sundara
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Moulya /Sundara/
+2 GIVN Moulya
+2 SURN Sundara
+2 _MARNM Soma Sundara
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1988
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Somasundara /Tumkur/
+2 GIVN Somasundara
+2 SURN Tumkur
+2 _MARNM Tumkur
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1958
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Champavathi /Satyanarayana/
+2 GIVN Champavathi
+2 SURN Satyanarayana
+2 _MARNM Soma Sundara
+1 SEX F
+1 BIRT
+2 DATE 16 APR 1967
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Govindiah /Tumkur/
+2 GIVN Govindiah
+2 SURN Tumkur
+2 _MARNM Tumkur
+1 SEX M
+1 DEAT Y
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Sharadamma
+2 GIVN Sharadamma
+1 SEX F
+1 DEAT Y
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Shashi
+2 GIVN Shashi
+1 SEX F
+1 FAMC @F2@
+0 @I7@ INDI
+1 NAME Nagu
+2 GIVN Nagu
+1 SEX F
+1 FAMC @F2@
+0 @I8@ INDI
+1 NAME Mangala
+2 GIVN Mangala
+1 SEX F
+1 FAMS @F4@
+1 FAMS @F5@
+1 FAMC @F2@
+0 @I9@ INDI
+1 NAME Manjunath
+2 GIVN Manjunath
+1 SEX M
+1 FAMC @F2@
+0 @I10@ INDI
+1 NAME Prema
+2 GIVN Prema
+1 SEX F
+1 FAMC @F2@
+0 @I11@ INDI
+1 NAME Mahesh
+2 GIVN Mahesh
+1 SEX M
+1 FAMS @F5@
+0 @I12@ INDI
+1 NAME Shankar
+2 GIVN Shankar
+1 SEX M
+1 FAMS @F4@
+0 @I13@ INDI
+1 NAME Satyanarayana /Satyanarayana/
+2 GIVN Satyanarayana
+2 SURN Satyanarayana
+2 _MARNM Satyanarayana
+1 SEX M
+1 DEAT Y
+1 FAMS @F3@
+0 @I14@ INDI
+1 NAME Lakshmi /Satyanarayana/
+2 GIVN Lakshmi
+2 SURN Satyanarayana
+2 _MARNM Satyanarayana
+1 SEX F
+1 DEAT Y
+1 FAMS @F3@
+0 @I15@ INDI
+1 NAME Manjunath /Satyanarayana/
+2 GIVN Manjunath
+2 SURN Satyanarayana
+2 _MARNM Satyanarayana
+1 SEX M
+1 FAMC @F3@
+0 @I16@ INDI
+1 NAME Sreenath /Satyanarayana/
+2 GIVN Sreenath
+2 SURN Satyanarayana
+2 _MARNM Satyanarayana
+1 SEX M
+1 FAMC @F3@
+0 @I17@ INDI
+1 NAME Vishwanath /Satyanarayana/
+2 GIVN Vishwanath
+2 SURN Satyanarayana
+2 _MARNM Satyanarayana
+1 SEX M
+1 FAMC @F3@
+0 @I18@ INDI
+1 NAME Meghana /Sundara/
+2 GIVN Meghana
+2 SURN Sundara
+2 _MARNM Sundara
+1 SEX F
+1 FAMC @F1@
+0 @I19@ INDI
+1 NAME Srinivas /Sundara/
+2 GIVN Srinivas
+2 SURN Sundara
+2 _MARNM Sundara
+1 SEX M
+1 FAMC @F1@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I18@
+1 CHIL @I19@
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 CHIL @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I3@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I12@
+1 WIFE @I8@
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I8@
+1 _CURRENT N
+0 TRLR
