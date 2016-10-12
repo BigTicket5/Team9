@@ -6,7 +6,7 @@ import java.util.Set;
 public class GedComParser {	
 	public static void main(String[] args) throws Exception {
 		Scanner input = new Scanner(System.in);
-		System.out.print("Provide filepath :Myfamily.ged ");
+		System.out.print("Provide filepath : ");
 		File file = new File(input.nextLine());
 		input.close();
 		
