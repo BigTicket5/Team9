@@ -1,13 +1,3 @@
-// Zhenzhong Mao
-0 HEAD
-1 SOUR Family Echo
-2 WWW http://www.familyecho.com/
-1 FILE My Family
-1 DATE 14 SEP 2016
-1 DEST ANSTFILE
-1 GEDC
-2 VERS 5.5.1
-2 FORM LINEAGE-LINKED
 1 SUBM @I1@
 2 NAME zhenzhong mao
 1 SUBN
